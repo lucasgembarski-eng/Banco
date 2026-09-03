@@ -1,0 +1,12 @@
+{
+  "name": "banco-poo",
+  "version": "1.0.0",
+  "description": "Aula de Encapsulamento e Polimorfismo em Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
